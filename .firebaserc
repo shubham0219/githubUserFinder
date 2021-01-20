@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "githubsearcher-fdc49": {
+      "hosting": {
+        "github-login-firebase": [
+          "githubsearcher-fdc49"
+        ]
+      }
+    }
+  }
+}
